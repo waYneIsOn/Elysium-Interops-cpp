@@ -25,7 +25,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Android", "04 - Androi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Elysium.Interop.Microsoft.Graph", "Libraries\01-Shared\Elysium.Interop.Microsoft.Graph\Elysium.Interop.Microsoft.Graph.vcxitems", "{3370712B-FFF4-426B-977B-62767FBFD797}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Elysium.Interop.Google.Maps", "Libraries\01-Shared\Elysium.Interops.Google.Maps\Elysium.Interop.Google.Maps\Elysium.Interop.Google.Maps.vcxitems", "{38C5CBF8-840E-42FF-AFC0-0A60E9937706}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Elysium.Interop.Google.Maps", "Libraries\01-Shared\Elysium.Interops.Google.Maps\Elysium.Interop.Google.Maps.vcxitems", "{38C5CBF8-840E-42FF-AFC0-0A60E9937706}"
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
